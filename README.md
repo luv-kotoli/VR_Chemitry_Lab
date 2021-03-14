@@ -21,7 +21,6 @@ Our target of this project is to build a VR Chemistry Lab. The main contribution
 7.  Almost all of the work of us can be find in `Model` fold and the `Level Blueprint`. Detailed division of labor is shown in our document.
 
 ## 3. Launch
-**Use the clone to get the project. If you use the button 'download zip' to get it, there may be some error when you open the project**
-After upzip, double click the `VR_Chemistry_Lab.uproject` can enter the UE Editor and you can use the preview in VR to test the functions.
+**Use the clone to get the project. If you use the button 'download zip' to get it, there may be some error when you open the project**. After upzip, double click the `VR_Chemistry_Lab.uproject` can enter the UE Editor and you can use the preview in VR to test the functions.
 
 
